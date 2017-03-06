@@ -16,7 +16,7 @@
  *
  * This file contains the source code for a sample application using RTX and the
  * Heart Rate service (and also Battery and Device Information services).
- * This application uses the @ref srvlib_conn_params module.
+ * This application uses the @ref srvlib_conn_params module.jajajajajaj
  */
 
 #include <stdint.h>
